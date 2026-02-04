@@ -1,4 +1,6 @@
+md
 # ejercicio-15-iai
+```java
 programa Cap2Ejemplo15
 areas
   ciudad: AreaC(1,1,100,100)
